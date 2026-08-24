@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-21 16:01 UTC",
+  "scraped_at": "2026-08-23 15:52 UTC",
   "total": 10,
-  "new_count": 3,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Air Force Materiel Command",
@@ -94,33 +94,5 @@
       "ats": "USAJOBS"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "U.S. Coast Guard",
-      "title": "Environmental Protection Specialist",
-      "location": "New London County, Connecticut",
-      "url": "https://www.usajobs.gov/job/881616800",
-      "date_posted": "2026-08-21",
-      "salary": "Starting at $69,642 Per year (GS 9)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "U.S. Marine Corps",
-      "title": "ENVIRONMENTAL PROTECTION SPECIALIST",
-      "location": "Twentynine Palms, California",
-      "url": "https://www.usajobs.gov/job/881433100",
-      "date_posted": "2026-08-21",
-      "salary": "Starting at $71,957 Per year (GS 9-11)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "U.S. Marine Corps",
-      "title": "ENVIRONMENTAL PROTECTION SPECIALIST",
-      "location": "Twentynine Palms, California",
-      "url": "https://www.usajobs.gov/job/881455200",
-      "date_posted": "2026-08-21",
-      "salary": "Starting at $71,957 Per year (GS 9-11)",
-      "ats": "USAJOBS"
-    }
-  ]
+  "new_jobs": []
 }
