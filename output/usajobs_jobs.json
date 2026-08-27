@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-23 15:52 UTC",
-  "total": 10,
-  "new_count": 0,
+  "scraped_at": "2026-08-25 16:12 UTC",
+  "total": 11,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Air Force Materiel Command",
@@ -10,6 +10,24 @@
       "url": "https://www.usajobs.gov/job/881345300",
       "date_posted": "2026-08-19",
       "salary": "Starting at $76,463 Per year (NH 3)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Environmental Protection Specialist - GEMS Program Manager",
+      "location": "Minneapolis, Minnesota",
+      "url": "https://www.usajobs.gov/job/881705500",
+      "date_posted": "2026-08-24",
+      "salary": "Starting at $97,582 Per year (GS 12)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Federal Highway Administration",
+      "title": "Supervisory Environmental Protection Specialist - DIRECT HIRE",
+      "location": "Lakewood, Colorado",
+      "url": "https://www.usajobs.gov/job/881730100",
+      "date_posted": "2026-08-24",
+      "salary": "Starting at $118,675 Per year (GS 13)",
       "ats": "USAJOBS"
     },
     {
@@ -40,15 +58,6 @@
       "ats": "USAJOBS"
     },
     {
-      "company": "John C. Stennis Space Center",
-      "title": "Public Notice - Environmental Protection (Direct Hire)",
-      "location": "Stennis Space Center, Mississippi",
-      "url": "https://www.usajobs.gov/job/881127000",
-      "date_posted": "2026-08-20",
-      "salary": "Starting at $74,678 Per year (GS 11-14)",
-      "ats": "USAJOBS"
-    },
-    {
       "company": "U.S. Coast Guard",
       "title": "Environmental Protection Specialist",
       "location": "Boston, Massachusetts",
@@ -76,12 +85,12 @@
       "ats": "USAJOBS"
     },
     {
-      "company": "Commander, Navy Installations Command",
-      "title": "ENVIRONMENTAL PROTECTION SPECIALIST",
-      "location": "Fort Worth, Texas",
-      "url": "https://www.usajobs.gov/job/879114700",
-      "date_posted": "2026-08-07",
-      "salary": "Starting at $67,100 Per year (GS 9)",
+      "company": "National Oceanic and Atmospheric Administration",
+      "title": "Environmental Scientist",
+      "location": "Silver Spring, Maryland",
+      "url": "https://www.usajobs.gov/job/881831800",
+      "date_posted": "2026-08-25",
+      "salary": "Starting at $74,678 Per year (ZP 3)",
       "ats": "USAJOBS"
     },
     {
@@ -94,5 +103,15 @@
       "ats": "USAJOBS"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "National Oceanic and Atmospheric Administration",
+      "title": "Environmental Scientist",
+      "location": "Silver Spring, Maryland",
+      "url": "https://www.usajobs.gov/job/881831800",
+      "date_posted": "2026-08-25",
+      "salary": "Starting at $74,678 Per year (ZP 3)",
+      "ats": "USAJOBS"
+    }
+  ]
 }

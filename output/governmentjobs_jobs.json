@@ -1,24 +1,15 @@
 {
-  "scraped_at": "2026-08-14 17:22 UTC",
-  "total": 12,
-  "new_count": 1,
+  "scraped_at": "2026-08-26 17:51 UTC",
+  "total": 11,
+  "new_count": 8,
   "jobs": [
     {
-      "company": "United Water Conservation District",
-      "title": "Environmental Scientist",
-      "location": "1701 N. Lombard Street Suite 200 - Oxnard, CA",
-      "url": "https://www.governmentjobs.com/jobs/5441316-0/environmental-scientist",
+      "company": "County of San Benito",
+      "title": "Environmental Health Specialist III",
+      "location": "CA. 95023, CA",
+      "url": "https://www.governmentjobs.com/jobs/5444359-0/environmental-health-specialist-iii",
       "date_posted": "",
-      "salary": "$99,863.00 - $121,392.00 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "County of Mendocino",
-      "title": "Environmental Health Manager",
-      "location": "Ukiah, CA",
-      "url": "https://www.governmentjobs.com/jobs/5431172-0/environmental-health-manager",
-      "date_posted": "",
-      "salary": "$97,032.00 - $117,936.00 Annually",
+      "salary": "$94,952.00 - $125,632.00 Annually",
       "ats": "NEOGOV"
     },
     {
@@ -31,39 +22,48 @@
       "ats": "NEOGOV"
     },
     {
-      "company": "Solano County",
-      "title": "Environmental Health Specialist (Senior)",
-      "location": "Fairfield, CA",
-      "url": "https://www.governmentjobs.com/jobs/5438080-0/environmental-health-specialist-senior",
+      "company": "County of Monterey",
+      "title": "Environmental Health Specialist IV",
+      "location": "Salinas, CA",
+      "url": "https://www.governmentjobs.com/jobs/5451489-0/environmental-health-specialist-iv",
       "date_posted": "",
-      "salary": "$101,314.79 - $123,148.76 Annually",
+      "salary": "$8,129.33 - $11,097.49 Monthly",
       "ats": "NEOGOV"
     },
     {
-      "company": "Kings County",
-      "title": "Environmental Health Specialist I/II",
-      "location": "Hanford, CA",
-      "url": "https://www.governmentjobs.com/jobs/5434932-0/environmental-health-specialist-i-ii",
+      "company": "City of Watsonville",
+      "title": "Water Quality Chemist",
+      "location": "City of Watsonville, CA",
+      "url": "https://www.governmentjobs.com/jobs/5454844-0/water-quality-chemist",
+      "date_posted": "",
+      "salary": "$86,881.60 - $116,438.40 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "City of Burbank",
+      "title": "WATER QUALITY ANALYST",
+      "location": "Burbank, CA",
+      "url": "https://www.governmentjobs.com/jobs/5454494-0/water-quality-analyst",
+      "date_posted": "",
+      "salary": "$102,750.44 - $141,642.54 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "City of Corvallis",
+      "title": "Water Quality Analyst",
+      "location": "City of Corvallis, OR",
+      "url": "https://www.governmentjobs.com/jobs/5455854-0/water-quality-analyst",
+      "date_posted": "",
+      "salary": "$32.88 - $41.81 Hourly",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "Santa Margarita Water District",
+      "title": "Water Quality and Regulatory Manager",
+      "location": "92688, CA",
+      "url": "https://www.governmentjobs.com/jobs/5457810-0/water-quality-and-regulatory-manager",
       "date_posted": "",
       "salary": "",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "County of Riverside",
-      "title": "Environmental Health Specialist I, II, III",
-      "location": "Throughout Riverside County",
-      "url": "https://www.governmentjobs.com/jobs/5428457-0/environmental-health-specialist-i-ii-iii",
-      "date_posted": "",
-      "salary": "$63,544.00 - $112,028.80 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "City of Palo Alto",
-      "title": "Water Quality Plant Manager of Maintenance Operations",
-      "location": "Palo Alto, CA",
-      "url": "https://www.governmentjobs.com/jobs/5425173-0/water-quality-plant-manager-of-maintenance-operations",
-      "date_posted": "",
-      "salary": "$118,643.20 - $177,944.00 Annually",
       "ats": "NEOGOV"
     },
     {
@@ -76,21 +76,12 @@
       "ats": "NEOGOV"
     },
     {
-      "company": "County of Mendocino",
-      "title": "Hazardous Materials Operations Specialist",
-      "location": "Ukiah, CA",
-      "url": "https://www.governmentjobs.com/jobs/5430178-0/hazardous-materials-operations-specialist",
-      "date_posted": "",
-      "salary": "$70,345.60 - $85,488.00 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "City of Vista",
+      "company": "City of Santa Rosa",
       "title": "Environmental Specialist I/II",
-      "location": "Vista City Hall - 200 Civic Center Drive Vista 92084, CA",
-      "url": "https://www.governmentjobs.com/jobs/5366037-0/environmental-specialist-i-ii",
+      "location": "MSCS-69 Stony Circle Santa Rosa, CA",
+      "url": "https://www.governmentjobs.com/jobs/5401336-0/environmental-specialist-i-ii",
       "date_posted": "",
-      "salary": "$75,183.16 - $100,752.86 Annually",
+      "salary": "$94,906.00 - $129,466.00 Annually",
       "ats": "NEOGOV"
     },
     {
@@ -106,7 +97,7 @@
       "company": "Brevard County Board of County Commissioners",
       "title": "Associate Environmental Specialist (23394)",
       "location": "Melbourne, FL",
-      "url": "https://www.governmentjobs.com/jobs/147706-1/associate-environmental-specialist-23394",
+      "url": "https://www.governmentjobs.com/jobs/148696-1/associate-environmental-specialist-23394",
       "date_posted": "",
       "salary": "",
       "ats": "NEOGOV"
@@ -114,12 +105,75 @@
   ],
   "new_jobs": [
     {
-      "company": "City of Palo Alto",
-      "title": "Water Quality Plant Manager of Maintenance Operations",
-      "location": "Palo Alto, CA",
-      "url": "https://www.governmentjobs.com/jobs/5425173-0/water-quality-plant-manager-of-maintenance-operations",
+      "company": "County of San Benito",
+      "title": "Environmental Health Specialist III",
+      "location": "CA. 95023, CA",
+      "url": "https://www.governmentjobs.com/jobs/5444359-0/environmental-health-specialist-iii",
       "date_posted": "",
-      "salary": "$118,643.20 - $177,944.00 Annually",
+      "salary": "$94,952.00 - $125,632.00 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "County of Monterey",
+      "title": "Environmental Health Specialist IV",
+      "location": "Salinas, CA",
+      "url": "https://www.governmentjobs.com/jobs/5451489-0/environmental-health-specialist-iv",
+      "date_posted": "",
+      "salary": "$8,129.33 - $11,097.49 Monthly",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "City of Watsonville",
+      "title": "Water Quality Chemist",
+      "location": "City of Watsonville, CA",
+      "url": "https://www.governmentjobs.com/jobs/5454844-0/water-quality-chemist",
+      "date_posted": "",
+      "salary": "$86,881.60 - $116,438.40 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "City of Burbank",
+      "title": "WATER QUALITY ANALYST",
+      "location": "Burbank, CA",
+      "url": "https://www.governmentjobs.com/jobs/5454494-0/water-quality-analyst",
+      "date_posted": "",
+      "salary": "$102,750.44 - $141,642.54 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "City of Corvallis",
+      "title": "Water Quality Analyst",
+      "location": "City of Corvallis, OR",
+      "url": "https://www.governmentjobs.com/jobs/5455854-0/water-quality-analyst",
+      "date_posted": "",
+      "salary": "$32.88 - $41.81 Hourly",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "Santa Margarita Water District",
+      "title": "Water Quality and Regulatory Manager",
+      "location": "92688, CA",
+      "url": "https://www.governmentjobs.com/jobs/5457810-0/water-quality-and-regulatory-manager",
+      "date_posted": "",
+      "salary": "",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "City of Santa Rosa",
+      "title": "Environmental Specialist I/II",
+      "location": "MSCS-69 Stony Circle Santa Rosa, CA",
+      "url": "https://www.governmentjobs.com/jobs/5401336-0/environmental-specialist-i-ii",
+      "date_posted": "",
+      "salary": "$94,906.00 - $129,466.00 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "Brevard County Board of County Commissioners",
+      "title": "Associate Environmental Specialist (23394)",
+      "location": "Melbourne, FL",
+      "url": "https://www.governmentjobs.com/jobs/148696-1/associate-environmental-specialist-23394",
+      "date_posted": "",
+      "salary": "",
       "ats": "NEOGOV"
     }
   ]

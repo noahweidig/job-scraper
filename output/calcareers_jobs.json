@@ -1,32 +1,8 @@
 {
-  "scraped_at": "2026-08-23 16:39 UTC",
-  "total": 16,
+  "scraped_at": "2026-08-26 16:56 UTC",
+  "total": 12,
   "new_count": 0,
   "jobs": [
-    {
-      "company": "Department of Pesticide Regulation",
-      "title": "Associate Toxicologist",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525902",
-      "date_posted": "2026-07-24",
-      "salary": "$6942.00 - $9799.00",
-      "ats": "CalCareers",
-      "telework": "Hybrid",
-      "job_type": "Permanent, Full Time",
-      "work_arrangement": "Telecommute eligible"
-    },
-    {
-      "company": "Department of Public Health",
-      "title": "Emergency Response Toxicologist",
-      "location": "Contra Costa County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=526136",
-      "date_posted": "2026-07-24",
-      "salary": "$9200.00 - $11852.00",
-      "ats": "CalCareers",
-      "telework": "Hybrid",
-      "job_type": "Permanent, Full Time",
-      "work_arrangement": "Telecommute eligible"
-    },
     {
       "company": "Department of Toxic Substances Control",
       "title": "Environmental Scientist",
@@ -136,18 +112,6 @@
       "work_arrangement": "On-site"
     },
     {
-      "company": "Department of Resources Recycling & Recovery",
-      "title": "Environmental Scientist",
-      "location": "Riverside County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=528263",
-      "date_posted": "2026-08-20",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers",
-      "telework": "Hybrid",
-      "job_type": "Permanent, Full Time",
-      "work_arrangement": "Telecommute eligible"
-    },
-    {
       "company": "Department of Water Resources",
       "title": "Unit Manager: Hazardous Materials & Environmental Evaluations",
       "location": "Yolo County",
@@ -172,28 +136,16 @@
       "work_arrangement": "On-site"
     },
     {
-      "company": "Department of Transportation",
+      "company": "Department of Food & Agriculture",
       "title": "ENVIRONMENTAL SCIENTIST",
-      "location": "San Diego County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=528475",
-      "date_posted": "2026-08-13",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=529936",
+      "date_posted": "2026-08-25",
       "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers",
       "telework": "In Office",
       "job_type": "Permanent, Full Time",
       "work_arrangement": "On-site"
-    },
-    {
-      "company": "Department of Public Health",
-      "title": "Air Quality Project Coordinator",
-      "location": "Contra Costa County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=527923",
-      "date_posted": "2026-08-10",
-      "salary": "$6623.00 - $8290.00",
-      "ats": "CalCareers",
-      "telework": "Hybrid",
-      "job_type": "Permanent, Full Time",
-      "work_arrangement": "Telecommute eligible"
     }
   ],
   "new_jobs": []
