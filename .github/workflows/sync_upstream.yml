@@ -44,6 +44,12 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          # The default GITHUB_TOKEN can never push changes to files under
+          # .github/workflows/ (no permissions setting grants this) — use a
+          # classic PAT with repo+workflow scopes instead, so a push that
+          # includes a workflow-file update (e.g. upstream editing its own
+          # workflows) isn't rejected.
+          token: ${{ secrets.SYNC_PAT }}
 
       - name: Merge from upstream
         run: |
